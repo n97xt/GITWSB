@@ -21,3 +21,5 @@ def remove_comments(lines):
            yield line
 
 print(file_as_dict('users.txt'))
+
+#https://pl.python.org/forum/index.php?topic=4385.0;wap2
