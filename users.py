@@ -9,3 +9,4 @@ class User:
     def login(self, input_login, input_password):
         input_login = input("Podaj login: ", )
         input_password = input("Podaj haslo: ", ) #zahashować!
+       
