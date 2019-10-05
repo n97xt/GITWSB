@@ -1,0 +1,4 @@
+name Szymon
+surname Nowak
+login snowak
+password Haslo123
